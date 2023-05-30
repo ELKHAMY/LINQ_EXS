@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq_exs", "linq_exs\linq_exs.csproj", "{3FD8522B-685B-4BAF-9419-3FC3FA7929A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AF87A150-DFBA-4266-9885-5265DA9193A2}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\ListGenerators.cs = ..\..\..\Downloads\ListGenerators.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD8522B-685B-4BAF-9419-3FC3FA7929A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD8522B-685B-4BAF-9419-3FC3FA7929A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD8522B-685B-4BAF-9419-3FC3FA7929A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD8522B-685B-4BAF-9419-3FC3FA7929A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B950E3AE-84C7-457C-A663-B0EB70A512AB}
+	EndGlobalSection
+EndGlobal
